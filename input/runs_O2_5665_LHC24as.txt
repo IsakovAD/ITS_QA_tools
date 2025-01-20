@@ -1,0 +1,27 @@
+560223 - - IR mean ~ 95 Hz: TPC scan, special run
+560229 - - IR mean ~ 14.2 kHz - unthinned
+560243 - - IR mean ~ 47.3 kHz
+560244 - - IR mean ~ 28.8 kHz
+560262 - - IR mean ~ 46.9 kHz
+560277 - - IR mean ~ 48.0 kHz
+560278 - - IR mean ~ 41.0 kHz
+560279 - - IR mean ~ 26.5 kHz
+560310 - - IR mean ~ 48.1 kHz
+560313 - - IR mean ~ 33.7 kHz
+560314 - 1734855170739 22 Dec 2024 08:12 UTC 22 Dec 2024 09:12 CET - IR mean ~ 16.1 kHz
+560330 - - IR mean ~ 48.7 kHz
+560331 - - IR mean ~ 47.7 kHz
+560332 - - IR mean ~ 38.2 kHz (TECHNICAL)
+560333 - - IR mean ~ 27.4 kHz
+560334 - 1734804959301 21 Dec 2024 18:15 UTC 21 Dec 2024 19:15 CET - IR mean ~ 19.5 kHz
+560352 - - IR mean ~ 47.7 kHz
+560354 - - IR mean ~ 32.9 kHz
+560355 - - IR mean ~ 22.1 kHz
+560371 - - IR mean ~ 47.8 kHz
+560372 - - IR mean ~ 45.8 kHz - No TPC, not processed
+560373 - - IR mean ~ 37.3 kHz
+560374 - - IR mean ~ 31.0 kHz
+560397 - - IR mean ~ 39.7 kHz
+560399 - - IR mean ~ 38.8 kHz
+560401 - - IR mean ~ 34.1 kHz
+560402 - - IR mean ~ 27.5 kHz

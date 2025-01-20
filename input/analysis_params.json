@@ -1,0 +1,9 @@
+{
+  "run_list": "runs_O2_5665_LHC24as.txt",
+  "DataType_old": "aQC", 
+  "DataType_new": "aQC",
+  "DataPass_old": "cpass0",
+  "DataPass_new": "apass1",
+  "MCPeriod_old": " ",
+  "MCPeriod_new": " "
+}
