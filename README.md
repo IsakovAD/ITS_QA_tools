@@ -27,7 +27,7 @@ The structure is as follows:
 2. Modify the input run list (`runlist_name.txt`) and adjust the analysis settings in `analysis_params.json`.
 3. Run the code with:
    ```
-   root -l -q scripts/do_analysis.C
+   root -l -q scripts/run_analysis.C
    ```
 4. The results will be saved in the `output/runlist_name` folder.
 
