@@ -43,12 +43,22 @@ vector<string> QA_analysis::getRuns(const string &path) const {
   }
 
   while (std::getline(infile, str)) {
+     try {
+        int run = stoi(str.substr(0, 6));
+     } catch(...){
+	cout<<"################################### something wrong during conversion string: "<< str << "to 6-digit int due to"<<endl;
+    	continue;
+     } 
+     out.emplace_back(str.substr(0, 6));
+/*
     if (str.size() >= 6)
       out.emplace_back(str.substr(0, 6));
+
     else {
       cout << "[ERROR] wrong line in the run list: " << str << " skipping!"
            << endl;
     }
+*/    
   }
   return out;
 }
@@ -161,7 +171,9 @@ void QA_analysis::FormatHisto(TVirtualPad *c1, TH1 *obj,
 
   obj->SetTitle(Form("Run%s %s ", run.c_str(),
                      apass.Length() < 2 ? "online" : apass.Data()));
-  
+  	  if ( object.Name.find("VertexZ") != string::npos) obj->Rebin(100);
+
+
           if ( object.isDoROF_norm ) obj->Scale(1./hROFs);
           if ( object.isLogy) c1->SetLogy();
           if ( object.isLogx) c1->SetLogx();
@@ -306,9 +318,9 @@ int QA_analysis::StartQA() {
         obj_new = server_new.downloadObject(run, object_new);
       }
 
-      setMinMax(obj_old, obj_new);
       FormatHisto(c1->cd(nCurrentPosition * 3 + 2), obj_new, object_new, run, server_new.getApass(), nROFs_new);
       FormatHisto(c1->cd(nCurrentPosition * 3 + 1), obj_old, object_old, run, server_old.getApass(), nROFs_old);
+      setMinMax(obj_old, obj_new);
 
       PlotHisto(c1->cd(nCurrentPosition * 3 + 2), obj_new);
       PlotHisto(c1->cd(nCurrentPosition * 3 + 1), obj_old);
