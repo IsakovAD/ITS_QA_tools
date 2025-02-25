@@ -1,0 +1,67 @@
+559544 - - IR mean ~1.5 kHz - unthinned
+559545 - - IR mean ~1.4 kHz
+559561 - - IR mean ~7.7 kHz
+559574 - - IR mean ~8.0 kHz
+559575 - - IR mean ~5.5 kHz
+559595 - - IR mean ~7.3 kHz
+559596 - - IR mean ~5.2 kHz
+559613 - - IR mean ~9.7 kHz - unthinned
+559614 - - IR mean ~1.9 kHz
+559615 - - IR mean ~1.7 kHz
+559616 - - IR mean ~3.4 kHz
+559617 - - IR mean ~7.5 kHz
+559631 - - IR mean ~15 kHz
+559632 - - IR mean ~10.7 kHz
+559679 - - IR mean ~1.9 kHz
+559680 - - IR mean ~1.9 kHz
+559681 - - IR mean ~1.9 kHz
+559713 - - IR mean ~2.4 kHz
+559731 - - IR mean ~15 kHz
+559749 - - IR mean ~2.4 kHz
+559762 - - IR mean ~18.5 kHz
+559781 - - IR mean ~35.4 kHz
+559782 - - IR mean ~20.9 kHz
+559783 - - IR mean ~13 kHz
+559784 - - IR mean ~11 kHz
+559802 - - IR mean ~37 kHz
+559803 - 1738885928611 06 Feb 2025 23:52 UTC 07 Feb 2025 00:52 CET - IR mean ~24 kHz
+559804 - - IR mean ~18.5 kHz
+559827 - 1738971577032 07 Feb 2025 23:39 UTC 08 Feb 2025 00:39 CET - IR mean ~27 kHz
+559828 - - IR mean ~19 kHz
+559830 - 1738946319500 07 Feb 2025 16:38 UTC 07 Feb 2025 17:38 CET - IR mean ~14.8 kHz
+559843 - - IR mean ~41 kHz
+559856 - 1739022756126 08 Feb 2025 13:52 UTC 08 Feb 2025 14:52 CET - IR mean ~36 kHz
+559901 - 1739029026965 08 Feb 2025 15:37 UTC 08 Feb 2025 16:37 CET - IR mean ~26 kHz
+559902 - 1739012347659 08 Feb 2025 10:59 UTC 08 Feb 2025 11:59 CET - IR mean ~16 kHz
+559903 - 1739035181771 08 Feb 2025 17:19 UTC 08 Feb 2025 18:19 CET - IR mean ~12 kHz
+559917 - - IR mean ~46.4 kHz
+559919 - 1739164678633 10 Feb 2025 05:17 UTC 10 Feb 2025 06:17 CET - IR mean ~25.5 kHz
+559920 - 1739139337790 09 Feb 2025 22:15 UTC 09 Feb 2025 23:15 CET - IR mean ~13.9 kHz
+559933 - - IR mean ~46.9 kHz
+559966 - - IR mean ~38.5 kHz
+559968 - - IR mean ~27.7 kHz
+559969 - - IR mean ~23.5 kHz
+559970 - - IR mean ~20.9 kHz
+559987 - - IR mean ~37.0 kHz
+560012 - - IR mean ~12.3 kHz - unthinned
+560031 - - IR mean ~47.9 kHz
+560033 - - IR mean ~37.9 kHz
+560034 - - IR mean ~19.5 kHz
+560049 - - IR mean ~46.0 kHz
+560066 - - IR mean ~47.9 kHz
+560067 - - IR mean ~24.1 kHz
+560070 - - IR mean ~14.3 kHz
+560089 - - IR mean ~33.6 kHz - unthinned
+560090 - - IR mean ~15.2 kHz
+560105 - - IR mean ~45.7 kHz - unthinned
+560106 - - IR mean ~20.2 kHz
+560123 - - IR mean ~32.5 kHz
+560127 - - IR mean ~17.9 kHz
+560141 - - IR mean ~45.9 kHz
+560142 - - IR mean ~32.1 kHz
+560162 - - IR mean ~42.5 kHz - unthinned
+560163 - - IR mean ~28.5 kHz - unthinned
+560164 - - IR mean ~20.6 kHz
+560168 - - IR mean ~15.8 kHz
+560169 - - IR mean ~13.4 kHz
+560184 - - IR mean ~41.9 kHz

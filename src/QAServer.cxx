@@ -39,7 +39,11 @@ map<pair<string,string>,string> QAServer::LoadTimeStamps(const string& objectNam
 
       if(word=="Validity:"){// take the one related to file creation
 	
-	if (PerioidNameForMC.size()>1 && periodName!= PerioidNameForMC) continue;
+	if (PerioidNameForMC.size()>1 && periodName!= PerioidNameForMC) {
+		ss>>word;
+         	timestamp = word;
+		continue;
+	}
 
        if (isVerbose>2) cout<< " found new timesamp for obj"<< objectName<< " run: " <<  runnumber<< " pass:" << pass << "peroid:"<<periodName<<" MC period" << PerioidNameForMC <<" timestamp: "<<timestamp<<endl;
 

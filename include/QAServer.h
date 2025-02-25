@@ -118,7 +118,7 @@ class QAServer{
 		QAParameters params;
 		map<pair<string,string>,string> LoadTimeStamps(const string& objectName, const string& PeriodNameForMC);
 		string testName[3] = { "/General/General_Occupancy", "AngularDistribution", "efficiency_pt"};
-		int isVerbose = 2;
+		int isVerbose = 3;
 		string PerioidNameForMC;
 		
 };

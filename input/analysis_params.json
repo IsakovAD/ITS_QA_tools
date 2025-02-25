@@ -1,10 +1,9 @@
 {
-  "run_list": "run_LHC24g3_UPC.txt",
+  "run_list": "runs_O2_5774_LHC25a6_LHC24ar.txt",
   "DataType_old": "aQC", 
   "DataType_new": "MC",
-  "DataPass_old": "apass4",
+  "DataPass_old": "apass1",
   "DataPass_new": "passMC",
   "MCPeriod_old": " ",
-  "MCPeriod_new": "LHC24g3"
+  "MCPeriod_new": "LHC25a6"
 }
-
