@@ -1,0 +1,13 @@
+# Ignore dependency and shared object files
+*.d
+*.so
+
+# Ignore input and output directories
+input/
+!input/analysis_params.json  
+!input/objects_aQC.json  
+!input/objects_Data.json  
+!input/objects_MC.json
+output/
+
+src/*.pcm
